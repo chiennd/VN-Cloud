@@ -164,7 +164,8 @@ Ví dụ: tcp,udp,ip,arp........
 `tcpdump -i eth1 not arp and not rarp`
 
 
-
 Tham khảo:
+
 [1]- http://www.tecmint.com/12-tcpdump-commands-a-network-sniffer-tool/
+
 [2]- https://vinahost.vn/ac/knowledgebase/248/TCPDUMP-va-cac-th-thut-s-dng.html
